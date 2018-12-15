@@ -3,9 +3,9 @@
 This repository is dedicated to hosting my personal portfolio on the web. The repository will
 include the following:
 
-    * weirdness
-    * widgets
-    * words
+* weirdness
+* widgets
+* words
 
 ## Weirdness
 
